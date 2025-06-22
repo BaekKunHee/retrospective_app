@@ -6,6 +6,8 @@ A new Flutter project.
 open -a Simulator
 
 flutter run
+
+dart run build_runner build --delete-conflicting-outputs
 ```
 
 ## Getting Started
